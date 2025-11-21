@@ -1,4 +1,4 @@
-# Sariah Shoemaker COMP-2362 BlockChain Cover Sheet
+# Sariah Shoemaker COMP-2362 Toy Shell Cover Sheet
 
 A Makefile is included in the ZIP. This Makefile will compile both my shell and addNum (a program that shell can execute.)
 
